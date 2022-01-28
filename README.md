@@ -51,54 +51,54 @@ mpg %>%
 ## Palettes
 ### Main Branding
 
-Color                                                                                      | Hex       | RGB           
----                                                                                        | ---       | ---            
-<span style="background-color: rgb(138,16,11); color: rgb(138,16,11);">--------</span>     | `#8a100b` | `138, 16, 11`  
-<span style="background-color: rgb(178,157,108); color: rgb(178,157,108);">--------</span> | `#b29d6c` | `178, 157, 108` 
-<span style="background-color: rgb(114,97,88); color: rgb(114,97,88);">--------</span>     | `#726158` | `114, 97, 88`  
+Color                                                            | Hex       | RGB           
+---                                                              | ---       | ---            
+![#8a100b](https://via.placeholder.com/30/8a100b/000000?text=+)  | `#8a100b` | `138, 16, 11`  
+![#b29d6c](https://via.placeholder.com/30/b29d6c/000000?text=+)  | `#b29d6c` | `178, 157, 108` 
+![#726158](https://via.placeholder.com/30/726158/000000?text=+)  | `#726158` | `114, 97, 88`  
 
 
 ### Primary
 
-Color                                                                                      | Hex       | RGB
----                                                                                        | ---       | ---    
-<span style="background-color: rgb(86,6,15); color: rgb(86,6,15);">--------</span>         | `#501315` | `86, 6, 15`    
-<span style="background-color: rgb(138,16,11); color: rgb(138,16,11);">--------</span>     | `#8a100b` | `138, 16, 11`   
-<span style="background-color: rgb(179,0,0); color: rgb(179,0,0);">--------</span>         | `#b30000` | `179, 0, 0`    
-<span style="background-color: rgb(85,85,85); color: rgb(85,85,85);">--------</span>       | `#8a6b46` | `85, 85, 85`   
-<span style="background-color: rgb(185,155,115); color: rgb(185,155,115);">--------</span> | `#b99b73` | `185, 155, 115` 
-<span style="background-color: rgb(220,202,160); color: rgb(220,202,160);">--------</span> | `#dccaa0` | `220, 202, 160`
-<span style="background-color: rgb(172,109,55); color: rgb(172,109,55);">--------</span>   | `#ac6d37` | `172, 109, 55` 
-<span style="background-color: rgb(215,151,19); color: rgb(215,151,19);">--------</span>   | `#d79713` | `215, 151, 19` 
-<span style="background-color: rgb(201,186,153); color: rgb(201,186,153);">--------</span> | `#c9ba99` | `201, 186, 153`
+Color                                                            | Hex       | RGB
+---                                                              | ---       | ---    
+![#501315](https://via.placeholder.com/30/501315/000000?text=+)  | `#501315` | `86, 6, 15`    
+![#8a100b](https://via.placeholder.com/30/8a100b/000000?text=+)  | `#8a100b` | `138, 16, 11`   
+![#b30000](https://via.placeholder.com/30/b30000/000000?text=+)  | `#b30000` | `179, 0, 0`    
+![#8a6b46](https://via.placeholder.com/30/8a6b46/000000?text=+)  | `#8a6b46` | `85, 85, 85`   
+![#b99b73](https://via.placeholder.com/30/b99b73/000000?text=+)  | `#b99b73` | `185, 155, 115` 
+![#dccaa0](https://via.placeholder.com/30/dccaa0/000000?text=+)  | `#dccaa0` | `220, 202, 160`
+![#ac6d37](https://via.placeholder.com/30/ac6d37/000000?text=+)  | `#ac6d37` | `172, 109, 55` 
+![#d79713](https://via.placeholder.com/30/d79713/000000?text=+)  | `#d79713` | `215, 151, 19` 
+![#c9ba99](https://via.placeholder.com/30/c9ba99/000000?text=+)  | `#c9ba99` | `201, 186, 153`
 
 
 ### Secondary
 
-Color                                                                                      | Hex       | RGB    
----                                                                                        | ---       | ---         
-<span style="background-color: rgb(138,16,11); color: rgb(138,16,11);">--------</span>     | `#8a100b` | `138, 16, 11`  
-<span style="background-color: rgb(178,157,108); color: rgb(178,157,108);">--------</span> | `#b29d6c` | `178, 157, 108`
-<span style="background-color: rgb(114,97,88); color: rgb(114,97,88);">--------</span>     | `#726158` | `114, 97, 88`  
-<span style="background-color: rgb(183,179,165); color: rgb(183,179,165);">--------</span> | `#b7b3a5` | `183, 179, 165` 
-<span style="background-color: rgb(197,207,172); color: rgb(197,207,172);">--------</span> | `#c5cfac` | `197, 207, 172` 
-<span style="background-color: rgb(127,167,164); color: rgb(127,167,164);">--------</span> | `#7fa7a4` | `127, 167, 164` 
-<span style="background-color: rgb(178,192,185); color: rgb(178,192,185);">--------</span> | `#b2c0b9` | `178, 192, 185` 
-<span style="background-color: rgb(121,159,164); color: rgb(121,159,164);">--------</span> | `#799fa4` | `121, 159, 164` 
-<span style="background-color: rgb(122,120,124); color: rgb(122,120,124);">--------</span> | `#7a787c` | `122, 120, 124` 
-<span style="background-color: rgb(146,155,144); color: rgb(146,155,144);">--------</span> | `#929b90` | `146, 155, 144` 
-<span style="background-color: rgb(213,207,181); color: rgb(213,207,181);">--------</span> | `#d5cfb5` | `213, 207, 181`
+Color                                                            | Hex       | RGB    
+---                                                              | ---       | ---         
+![#8a100b](https://via.placeholder.com/30/8a100b/000000?text=+)  | `#8a100b` | `138, 16, 11`  
+![#b29d6c](https://via.placeholder.com/30/b29d6c/000000?text=+)  | `#b29d6c` | `178, 157, 108`
+![#726158](https://via.placeholder.com/30/726158/000000?text=+)  | `#726158` | `114, 97, 88`  
+![#b7b3a5](https://via.placeholder.com/30/b7b3a5/000000?text=+)  | `#b7b3a5` | `183, 179, 165` 
+![#c5cfac](https://via.placeholder.com/30/c5cfac/000000?text=+)  | `#c5cfac` | `197, 207, 172` 
+![#7fa7a4](https://via.placeholder.com/30/7fa7a4/000000?text=+)  | `#7fa7a4` | `127, 167, 164` 
+![#b2c0b9](https://via.placeholder.com/30/b2c0b9/000000?text=+)  | `#b2c0b9` | `178, 192, 185` 
+![#799fa4](https://via.placeholder.com/30/799fa4/000000?text=+)  | `#799fa4` | `121, 159, 164` 
+![#7a787c](https://via.placeholder.com/30/7a787c/000000?text=+)  | `#7a787c` | `122, 120, 124` 
+![#929b90](https://via.placeholder.com/30/929b90/000000?text=+)  | `#929b90` | `146, 155, 144` 
+![#d5cfb5](https://via.placeholder.com/30/d5cfb5/000000?text=+)  | `#d5cfb5` | `213, 207, 181`
 
 
 ### News
 
-Color                                                                                      |  Type                   | Hex       | RGB        
----                                                                                        | ---                     | ---       | --- 
-<span style="background-color: rgb(98,150,168); color: rgb(98,150,168)">--------</span>    | Blue                    | `#6296a8` | `98, 150, 168`   
-<span style="background-color: rgb(194,49,72); color: rgb(194,49,72);">--------</span>     | Athletics               | `#c23148` | `194, 49, 72`  
-<span style="background-color: rgb(255,150,115); color: rgb(255,150,115);">--------</span> | Campus Community        | `#ff9673` | `255, 150, 115`   
-<span style="background-color: rgb(159,171,120); color: rgb(159,171,120);">--------</span> | Faith & Religion        | `#9fab78` | `159, 171, 120`  
-<span style="background-color: rgb(223,173,88); color: rgb(223,173,88);">--------</span>   | Humanities              | `#dfad58` | `223, 173, 88` 
-<span style="background-color: rgb(212,133,84); color: rgb(212,133,84);">--------</span>   | Nation, World & Society | `#d48554` | `212, 133, 843` 
-<span style="background-color: rgb(8,115,174); color: rgb(8,115,174);">--------</span>     | Science, Tech & Health  | `#0873ae` | `8, 115, 174`  
-<span style="background-color: rgb(147,132,121); color: rgb(147,132,121);">--------</span> | BC Events               | `#938479` | `147, 132, 121` 
+Color                                                             |  Type                   | Hex       | RGB        
+---                                                               | ---                     | ---       | --- 
+![#6296a8](https://via.placeholder.com/30/6296a8/000000?text=+)   | Blue                    | `#6296a8` | `98, 150, 168`   
+![#c23148](https://via.placeholder.com/30/c23148/000000?text=+)   | Athletics               | `#c23148` | `194, 49, 72`  
+![#ff9673](https://via.placeholder.com/30/ff9673/000000?text=+)   | Campus Community        | `#ff9673` | `255, 150, 115`   
+![#9fab78](https://via.placeholder.com/30/9fab78/000000?text=+)   | Faith & Religion        | `#9fab78` | `159, 171, 120`  
+![#dfad58](https://via.placeholder.com/30/dfad58/000000?text=+)   | Humanities              | `#dfad58` | `223, 173, 88` 
+![#d48554](https://via.placeholder.com/30/d48554/000000?text=+)   | Nation, World & Society | `#d48554` | `212, 133, 843` 
+![#0873ae](https://via.placeholder.com/30/0873ae/000000?text=+)   | Science, Tech & Health  | `#0873ae` | `8, 115, 174`  
+![#938479](https://via.placeholder.com/30/938479/000000?text=+)   | BC Events               | `#938479` | `147, 132, 121` 
